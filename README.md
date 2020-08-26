@@ -21,3 +21,8 @@
 7. Removed repeating color from invidiual divs within aside tag, applied color to entire aside tag for consolidation.
 8. Changed divs' classes within aside tag to benefit-items for consolidation.
 9. Changed article classes to articles for css consolidation.
+
+## Usage
+
+1. Click the navigation links to learn more about how Horiseon can market your brand
+
