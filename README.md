@@ -26,3 +26,7 @@
 
 1. Click the navigation links to learn more about how Horiseon can market your brand
 
+## Credits
+
+1. https://github.com/microsoft/vscode/
+2. https://github.com/spranklemiami/
