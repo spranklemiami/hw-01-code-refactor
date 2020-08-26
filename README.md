@@ -2,3 +2,4 @@
 1. Changed header's child div tag to a nav tag for search engine optimization.
 2. Added id to seo div tag for proper mapping.
 3. Added alt attribute to hero tag for search engine optimization.
+4. Changed divs inside of content div tag to article tags for search engine optimization.
