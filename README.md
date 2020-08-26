@@ -1,5 +1,7 @@
 ## Horiseon Code Refactor
 
+![home-page](./images/homescreen.png)
+
 ## License
 
 /* https://spranklemiami.github.io/hw-01-code-refactor/ 
