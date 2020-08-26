@@ -30,3 +30,7 @@
 
 1. https://github.com/microsoft/vscode/
 2. https://github.com/spranklemiami/
+
+
+---
+© 2019 Horiseon Social Solution Services, Inc.
